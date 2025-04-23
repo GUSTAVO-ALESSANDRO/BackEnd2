@@ -1,2 +1,8 @@
-# BackEnd2
-Desafio/Trabalho de Back End II da Unilavras
+# Backend Express + MySQL
+
+Desafio de Desenvolvimento Back-end I: API REST com Express e MySQL.
+
+## Instalação
+
+```bash
+npm install
